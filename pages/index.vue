@@ -1,12 +1,4 @@
 <template>
-  <div>Hello world</div>
+  <div>about supreeya</div>
 </template>
-<script>
-export default {
-  data() {
-    return {
-      id: 1,
-    }
-  },
-}
-</script>
+
